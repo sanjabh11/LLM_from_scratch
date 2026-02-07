@@ -1,0 +1,4 @@
+interface:
+  display_name: "Kimi2 Defense Presentation Architect"
+  short_description: "Build elite defense AI training slide prompts"
+  default_prompt: "Create a research-grounded defense AI slide deck prompt plan with premium light visuals and beginner clarity."

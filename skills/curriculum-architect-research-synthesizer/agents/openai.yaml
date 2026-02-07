@@ -1,0 +1,4 @@
+interface:
+  display_name: "Curriculum Architect & Synthesizer"
+  short_description: "Design evidence-based end-to-end learning programs"
+  default_prompt: "Design a complete learning program for [topic] within [time budget], with source-backed modules, labs, assessments, and a capstone."

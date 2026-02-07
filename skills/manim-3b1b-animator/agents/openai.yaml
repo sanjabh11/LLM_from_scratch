@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manim 3B1B Animator"
+  short_description: "Plan and code 3Blue1Brown-style Manim CE animations."
+  default_prompt: "Create a 3Blue1Brown-style Manim Community Edition animation with a scene plan, narration script, and runnable code."
