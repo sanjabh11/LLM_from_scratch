@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/1584795214_2039941943_223132457.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_1453249477_1584921002.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_3864283502_4028883030.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_4078072987_3261686302.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_275133032_1582427777.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_3041522502_2549071232.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_4036309336_979995327.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_736204807_1879717464.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_295251503_1110696624.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_2185791205_1909915087.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_3219690_2929439803.mp4'
+file 'file:/Users/sanjayb/Documents/New project/media/videos/hour19-ch6-classification-flow-animation/480p15/partial_movie_files/Ch6ClassificationFlowAnimation/4072820271_1076741493_1253318628.mp4'
